@@ -1,0 +1,237 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simplicy post view\n"
+"POT-Creation-Date: 2013-12-16 09:57+0100\n"
+"PO-Revision-Date: 2013-12-18 14:05+0100\n"
+"Last-Translator: jelena kovacevic <jecajeca260@gmail.com>\n"
+"Language-Team: Naxialis <fred@naxialis.com>\n"
+"Language: French\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_n:1,2;_e;_e();__()\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2;plural=n>1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress\\plugins wordpress by "
+"naxialis\\wordpress\\wp-content\\plugins\\simplicy-post-view\n"
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/simplicy-post-view.php:36
+msgid ""
+"Afficher et personnaliser l&acute;affichage de vos articles dans la sidebar"
+msgstr ""
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/simplicy-post-view.php:38
+msgid "Simplicy post view"
+msgstr "Ver el post Simplicy"
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/simplicy-post-view.php:225
+msgid "Title"
+msgstr "Título"
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/simplicy-post-view.php:229
+msgid "Select category : "
+msgstr "Seleccione categoría:"
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/simplicy-post-view.php:229
+msgid "Leave blank to show all categories"
+msgstr "Dejar en blanco para mostrar todas las categorías"
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/simplicy-post-view.php:250
+msgid " Post number to display : "
+msgstr "Número de mensajes para mostrar:"
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/simplicy-post-view.php:256
+msgid "Show date and the number of comments"
+msgstr "Mostrar la fecha y el número de comentarios"
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/simplicy-post-view.php:263
+msgid "View post titles"
+msgstr "Ver títulos de publicaciones"
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/simplicy-post-view.php:269
+msgid "Size post titles : "
+msgstr "Tamaño títulos publicaciones:"
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/simplicy-post-view.php:270
+msgid "(14px default)"
+msgstr "(por defecto 14px)"
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/simplicy-post-view.php:277
+msgid "Display excerpt"
+msgstr "Extracto Pantalla"
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/simplicy-post-view.php:283
+msgid "Excerpt length (words):"
+msgstr "Extracto de longitud (palabras):"
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/simplicy-post-view.php:291
+msgid "Display link read more"
+msgstr "Mostrar enlace leer más"
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/simplicy-post-view.php:297
+msgid "Text for the link:"
+msgstr "Texto para el enlace:"
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/simplicy-post-view.php:305
+msgid "Display a thumbnail"
+msgstr "Mostrar una miniatura"
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/simplicy-post-view.php:311
+msgid "Size of the thumbnail:"
+msgstr "Tamaño de la miniatura:"
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/simplicy-post-view.php:312
+msgid "Width:"
+msgstr "Ancho:"
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/simplicy-post-view.php:314
+msgid "Height:"
+msgstr "Alto:"
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/simplicy-post-view.php:321
+msgid "Image Position"
+msgstr "Posición de la imagen"
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/simplicy-post-view.php:336
+msgid "Show images description"
+msgstr "Mostrar Descripción Imágenes"
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/simplicy-post-view.php:343
+msgid "Check this box to turn gallery mod"
+msgstr "Marque esta casilla para activar modo galería"
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/func/function.php:82
+msgid "Text link to post"
+msgstr "Enlace de texto para publicar"
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/func/function.php:105
+msgid "Save Changes"
+msgstr ""
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/func/function.php:119
+msgid "Shortcode use"
+msgstr "Uso de shortcode"
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/func/function.php:123
+msgid " Title of the column that contains your post"
+msgstr "Título de la columna que contiene su mensaje"
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/func/function.php:124
+msgid "Width of the column that contains your post"
+msgstr "Ancho de la columna que contiene su mensaje"
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/func/function.php:125
+msgid " Position of the column that contains your post right, left, center"
+msgstr ""
+"Posición de la columna que contiene su mensaje derecha, izquierda, centro"
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/func/function.php:126
+msgid "Right margin of the column that contains your post"
+msgstr "Margen derecho de la columna que contiene su mensaje"
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/func/function.php:127
+msgid "Left margin of the column that contains your post"
+msgstr "Margen izquierdo de la columna que contiene el mensaje"
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/func/function.php:128
+msgid "Post by category id example cat=\"5\""
+msgstr "Publicar por id de categoría ejemplo cat = \"5 \""
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/func/function.php:129
+#, fuzzy
+msgid "Post number to be displayed"
+msgstr "Nombre d´article à afficher"
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/func/function.php:130
+msgid ""
+"Display the date of publication of the post and number of comment yes/no"
+msgstr ""
+"Mostrar la fecha de publicación del mensaje y el número de comentario si/no"
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/func/function.php:131
+msgid "Display link to post on/off"
+msgstr "Mostrar enlace para publicar encendido / apagado"
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/func/function.php:132
+msgid " Image width post"
+msgstr "Publicación Ancho de la de imagen"
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/func/function.php:133
+msgid " Image Height post"
+msgstr "Publicación altura de la imagen"
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/func/function.php:134
+msgid " Image position: none, left, right"
+msgstr "Posición de la imagen: ninguno, izquierda, derecha"
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/func/function.php:135
+msgid "----------------------------------------------------------------------------------"
+msgstr ""
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/func/function.php:136
+msgid "Horizontal separation"
+msgstr "Separación horizontal"
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/func/function.php:141
+msgid "Exemple shortcode use"
+msgstr "Ejemplo de uso de shortcode"
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/func/function.php:145
+msgid "A single column in the center"
+msgstr "Una sola columna en el centro"
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/func/function.php:148
+msgid "Two columns"
+msgstr "Dos columnas"
+
+#: C:\wamp\www\wordpress\plugins wordpress by
+#: naxialis\wordpress\wp-content\plugins\simplicy-post-view/func/function.php:152
+msgid "Four columns and two up two down"
+msgstr "Cuatro columnas y dos arriba dos abajo"
+
+#, fuzzy
+#~ msgid "numberpost : post number to be displayed"
+#~ msgstr "Nombre d´article à afficher"
